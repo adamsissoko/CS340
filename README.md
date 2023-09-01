@@ -1,4 +1,4 @@
-Certainly, here's a professional, technical README that emphasizes the project's key features and your skills.
+Certainly, here's a revised README that maintains a professional tone while describing the project:
 
 ---
 
@@ -6,48 +6,46 @@ Certainly, here's a professional, technical README that emphasizes the project's
 ## Developed by Adam Sissoko
 
 ### Introduction
-This repository contains a client-server application designed to manage an Animal Shelter Database. Developed in Python, the project integrates with MongoDB for data storage and employs Plotly and Dash for the frontend user interface. This application showcases robust database design, CRUD operations, dynamic data visualization, and real-time UI interactivity.
+This repository contains a client-server application aimed at managing an Animal Shelter Database. The project is built in Python and integrates MongoDB for backend data storage. The frontend is designed using Plotly and Dash to provide an interactive user interface.
 
 ---
 
 ### Features
 
 #### Backend
-- **MongoDB Integration**: Utilizes MongoDB to manage a dynamic and scalable NoSQL database.
-- **CRUD Operations**: Implements Create, Read, Update, and Delete operations to facilitate seamless data manipulation.
-- **Query Optimization**: Employs various indexing techniques for optimized search queries.
+- **MongoDB**: Used for data storage, offering a flexible NoSQL solution.
+- **CRUD Operations**: The backend supports Create, Read, Update, and Delete functionality for database interactions.
+- **Query Optimization**: Indexing methods have been employed for efficient data retrieval.
 
 #### Frontend
-- **Dynamic Data Visualization**: Utilizes Plotly to present interactive histograms that update in real-time based on database entries.
-- **User Interface**: Designed using Dash to offer a user-friendly and interactive UI.
-- **Data Filtering**: Features a responsive layout that allows real-time data filtering based on various criteria such as "Water Rescue", "Mountain Rescue", and "Disaster Rescue".
+- **Data Visualization**: Incorporates Plotly for interactive data representation.
+- **User Interface**: The Dash framework has been used for creating an interactive frontend.
+- **Data Filtering**: The UI allows for real-time data filtering based on predefined categories like "Water Rescue", "Mountain Rescue", and "Disaster Rescue".
 
-#### Overall Architecture
-- **Modular Design**: Adheres to the principles of modular design for ease of maintenance and scalability.
-- **Code Quality**: Written with a focus on readability, reusability, and best practices.
+#### Code and Architecture
+- **Modular Approach**: The code is organized in a way that allows for easier maintenance and scalability.
+- **Code Quality**: Attention has been paid to writing readable and maintainable code.
 
 ---
 
 ### Screenshots
 
-![Main List](https://github.com/adamsissoko/CS340/blob/main/images/01.png)
-*Main list interface with real-time editing and data sorting features.*
+<img src="https://github.com/adamsissoko/CS340/blob/main/images/01.png" width="800">
+*Main list view with options for real-time editing and sorting.*
 
-![Interactive Histogram](https://github.com/adamsissoko/CS340/blob/main/images/03.png)
-*Histogram representation of animals based on birth dates.*
+<img src="https://github.com/adamsissoko/CS340/blob/main/images/03.png" width="800">
+*Histogram displaying animal birth dates.*
 
-![Interactive Map](https://github.com/adamsissoko/CS340/blob/main/images/02.png)
-*Geographical representation of animal locations, filterable based on selected criteria.*
+<img src="https://github.com/adamsissoko/CS340/blob/main/images/02.png" width="800">
+*Map showing the geographical distribution of animals from the database.*
 
 ---
 
 ### Quick Start
-- **Prerequisites**: Ensure Python and MongoDB server are installed.
-- **Installation**: Clone the repository and install the necessary Python packages.
-- **Running the App**: Navigate to the project directory and run the application script.
+- **Prerequisites**: Python and MongoDB should be installed.
+- **Installation**: Clone this repository and install the necessary Python packages.
+- **Usage**: Navigate to the project directory and run the application script.
 
 ---
 
-This project serves as a robust demonstration of my capabilities in client-server architecture, database management, backend logic, and frontend development. These skills are not only transferable but also scalable across various domains of software engineering.
-
----
+The objective of this project is to showcase a functional client-server application, integrating backend, frontend, and database technologies.
