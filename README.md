@@ -1,49 +1,53 @@
-Certainly, here's a rewritten README focusing solely on the project, intended for a potential employer reviewing your resume:
+Certainly, here's a professional, technical README that emphasizes the project's key features and your skills.
 
 ---
 
-# Animal Shelter Database Application
+# Animal Shelter Database: A Client/Server Application
+## Developed by Adam Sissoko
 
-## Overview
+### Introduction
+This repository contains a client-server application designed to manage an Animal Shelter Database. Developed in Python, the project integrates with MongoDB for data storage and employs Plotly and Dash for the frontend user interface. This application showcases robust database design, CRUD operations, dynamic data visualization, and real-time UI interactivity.
 
-Welcome to the repository for my Animal Shelter Database application. This project serves as a comprehensive demonstration of my capabilities in client/server development, database management, and UI design. Built using Python, MongoDB, Plotly, and Dash, the application offers an intuitive user interface for interacting with an extensive animal shelter database.
+---
 
-## Features
+### Features
 
-### Main List
+#### Backend
+- **MongoDB Integration**: Utilizes MongoDB to manage a dynamic and scalable NoSQL database.
+- **CRUD Operations**: Implements Create, Read, Update, and Delete operations to facilitate seamless data manipulation.
+- **Query Optimization**: Employs various indexing techniques for optimized search queries.
 
-The application's main feature is a sortable and editable list that displays animals currently housed in the shelter. 
+#### Frontend
+- **Dynamic Data Visualization**: Utilizes Plotly to present interactive histograms that update in real-time based on database entries.
+- **User Interface**: Designed using Dash to offer a user-friendly and interactive UI.
+- **Data Filtering**: Features a responsive layout that allows real-time data filtering based on various criteria such as "Water Rescue", "Mountain Rescue", and "Disaster Rescue".
+
+#### Overall Architecture
+- **Modular Design**: Adheres to the principles of modular design for ease of maintenance and scalability.
+- **Code Quality**: Written with a focus on readability, reusability, and best practices.
+
+---
+
+### Screenshots
 
 ![Main List](https://github.com/adamsissoko/CS340/blob/main/images/01.png)
+*Main list interface with real-time editing and data sorting features.*
 
-The list offers real-time filtering based on various rescue categories:
+![Interactive Histogram](https://github.com/adamsissoko/CS340/blob/main/images/03.png)
+*Histogram representation of animals based on birth dates.*
 
-- Water Rescue
-- Mountain Rescue
-- Disaster Rescue
-
-### Interactive Histogram
-
-This histogram dynamically displays the animals' birth dates and updates in real-time based on the selected rescue category or the filtered list. 
-
-![Histogram](https://github.com/adamsissoko/CS340/blob/main/images/03.png)
-
-### Interactive Map
-
-A map in the application shows the geographical locations of the animals, adjusting according to the selected rescue category.
-
-![Map](https://github.com/adamsissoko/CS340/blob/main/images/02.png)
-
-### UI Interactivity
-
-The application's interface updates all visual elements based on the user's interactions, offering a seamless user experience.
-
-![Interactivity](https://github.com/adamsissoko/CS340/blob/main/images/aac-min.gif)
-
-## Installation and Usage
-
-The project requires Python and MongoDB to be installed. Once the prerequisites are set up, you can download the [Final Project file](https://github.com/adamsissoko/CS340/blob/main/Python%20Mongo%20Tests/ModuleSixMilestone_AAC.py) and follow the README instructions for installation and execution.
+![Interactive Map](https://github.com/adamsissoko/CS340/blob/main/images/02.png)
+*Geographical representation of animal locations, filterable based on selected criteria.*
 
 ---
 
-This project showcases my ability to develop a fully functional client-server application with a robust backend and an intuitive frontend. I am confident that these skills make me a strong candidate for any software engineering role.
+### Quick Start
+- **Prerequisites**: Ensure Python and MongoDB server are installed.
+- **Installation**: Clone the repository and install the necessary Python packages.
+- **Running the App**: Navigate to the project directory and run the application script.
+
+---
+
+This project serves as a robust demonstration of my capabilities in client-server architecture, database management, backend logic, and frontend development. These skills are not only transferable but also scalable across various domains of software engineering.
+
+---
