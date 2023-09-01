@@ -1,7 +1,3 @@
-Certainly, here is the rewritten README without any mention of a YouTube channel, LinkedIn, or personal website. The name has been changed to Adam Sissoko, and the text is aimed at someone considering you for a software engineering position.
-
----
-
 <h1>CS 340 - Client / Server Development</h1>
 <h2>Adam Sissoko<br>
   Southern New Hampshire University</h2>
@@ -79,8 +75,3 @@ For this capstone project, I engineered a MongoDB database and developed a CRUD 
 
 <hr>
 
-This repository serves as a comprehensive demonstration of my capabilities in client/server development, database management, and UI design, and I'm confident these skills would make me an invaluable asset to any software engineering team.
-
---- 
-
-I hope this revised README better suits your requirements.
