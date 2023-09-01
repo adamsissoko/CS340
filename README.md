@@ -1,77 +1,49 @@
-<h1>CS 340 - Client / Server Development</h1>
-<h2>Adam Sissoko<br>
-  Southern New Hampshire University</h2>
-Center: Online
+Certainly, here's a rewritten README focusing solely on the project, intended for a potential employer reviewing your resume:
 
-<h2>
-Course Prerequisites
-</h2>
-CS 218 or CS 300
-<h2>
-Course Description
-</h2>
-<p>This course equips students with the skills to apply database systems concepts and principles in the development of client/server applications. This involves interfacing client-side code with databases.</p>
-<p>
-The course covers the following core competencies:
-<ul>
-    <li>CS-30433: Develop a client/server application using database systems concepts and principles</li>
-    <li>CS-30434: Design a database that can be accessed by client-side code</li>
-    <li>CS-30435: Write client-side code to interface with databases</li>
-</ul>
-</p>
-<hr>
+---
 
-<p>
-Welcome to my repository for CS 340 Client / Server Development projects. This course was an intense yet rewarding experience that significantly broadened my understanding of database systems in modern computing. Practically every online interaction we engage in—be it authentication, shopping, or data retrieval—relies on a database system behind the scenes. This course gave me comprehensive training in this critical area, covering CRUD operations, backend logic, and front-end UI development.
-</p>
+# Animal Shelter Database Application
 
-<p>
-The pinnacle of this learning journey is encapsulated in my <a href="https://github.com/adamsissoko/CS340/blob/main/Python%20Mongo%20Tests/ModuleSixMilestone_AAC.py" target="_blank">Final Project</a>. This README will provide you with all the necessary information for installing and running the program. Python and a MongoDB server (either local or cloud-based) are required.
-</p>
-  
-<h3>Final Project: Animal Shelter Database</h3>
-<p>
-For this capstone project, I engineered a MongoDB database and developed a CRUD module in Python for database access. To make the user experience seamless, I also designed an intuitive UI using Python, Plotly, and Dash.
-</p>
+## Overview
 
-<h3>Features of the Final Project</h3>
-  
-<table>
-    <tr>
-      <td><h3>Main List</h3>
-      <p>The UI features a sortable list of animal shelter data. Entries are editable in real-time and can be filtered based on various rescue categories.</p>
-      <ul>
-         <li>Water Rescue</li>
-         <li>Mountain Rescue</li>
-         <li>Disaster Rescue</li>
-      </ul>
-      </td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/adamsissoko/CS340/blob/main/images/01.png" alt="[top]" style="width:600px;"></td>
-    </tr>
-    <tr>
-      <td><h3>Interactive Histogram</h3>
-      <p>This histogram represents the animals' birth dates and updates in real-time based on the filtered list.</p>
-      </td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/adamsissoko/CS340/blob/main/images/03.png" alt="[bottom]" style="width:600px;"></td>
-    </tr>
-    <tr>
-      <td><h3>Interactive Map</h3>
-      <p>The map displays the locations of the animals listed in the database and adjusts based on the selected rescue categories.</p>
-      </td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/adamsissoko/CS340/blob/main/images/02.png" alt="[top]" style="width:600px;"></td>
-    </tr>
-</table>
+Welcome to the repository for my Animal Shelter Database application. This project serves as a comprehensive demonstration of my capabilities in client/server development, database management, and UI design. Built using Python, MongoDB, Plotly, and Dash, the application offers an intuitive user interface for interacting with an extensive animal shelter database.
 
-<h3>UI Interactivity</h3>
-<p>The UI offers dynamic interactivity, allowing users to select different rescue categories, which in turn updates all visualizations accordingly.</p>
-<img src="https://github.com/adamsissoko/CS340/blob/main/images/aac-min.gif" alt="[top]" style="width:600px;">
-</p>
+## Features
 
-<hr>
+### Main List
 
+The application's main feature is a sortable and editable list that displays animals currently housed in the shelter. 
+
+![Main List](https://github.com/adamsissoko/CS340/blob/main/images/01.png)
+
+The list offers real-time filtering based on various rescue categories:
+
+- Water Rescue
+- Mountain Rescue
+- Disaster Rescue
+
+### Interactive Histogram
+
+This histogram dynamically displays the animals' birth dates and updates in real-time based on the selected rescue category or the filtered list. 
+
+![Histogram](https://github.com/adamsissoko/CS340/blob/main/images/03.png)
+
+### Interactive Map
+
+A map in the application shows the geographical locations of the animals, adjusting according to the selected rescue category.
+
+![Map](https://github.com/adamsissoko/CS340/blob/main/images/02.png)
+
+### UI Interactivity
+
+The application's interface updates all visual elements based on the user's interactions, offering a seamless user experience.
+
+![Interactivity](https://github.com/adamsissoko/CS340/blob/main/images/aac-min.gif)
+
+## Installation and Usage
+
+The project requires Python and MongoDB to be installed. Once the prerequisites are set up, you can download the [Final Project file](https://github.com/adamsissoko/CS340/blob/main/Python%20Mongo%20Tests/ModuleSixMilestone_AAC.py) and follow the README instructions for installation and execution.
+
+---
+
+This project showcases my ability to develop a fully functional client-server application with a robust backend and an intuitive frontend. I am confident that these skills make me a strong candidate for any software engineering role.
