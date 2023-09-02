@@ -2,8 +2,8 @@
 <h1>Client / Server Development Projects</h1>
 <h2>Adam Sissoko<br>
 <h2>Introduction</h2>
-<p>
-  Welcome to my repository, a showcase of my expertise in client/server development with a focus on database management. This compilation contains multiple projects that collectively offer a deep dive into CRUD operations, real-time data manipulation, and user interface design, all built to interact efficiently with databases.
+<p>  
+Welcome to this repository, a comprehensive platform that showcases my mastery in mobile architecture and programming. Here you'll find a remarkable Android application focused on event tracking. This app is a testament to what is achievable with a comprehensive understanding of Android's diverse frameworks, APIs, and subsystems. It brings together a robust backend with an intuitive user interface to offer a seamless experience to the end-user.
 </p>
 
 <h3>Technical Stack</h3>
