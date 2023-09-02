@@ -27,25 +27,25 @@
   <tr>
     <td><h3>Main List</h3>
       <p>The first image showcases the main list of animals from the shelter. The list is sortable by various parameters, such as name and type. Each entry is editable and deletable in real-time, providing dynamic interaction. Filters have been added to sort the list based on specialized categories, like Water Rescue, Mountain Rescue, and Disaster Rescue, making it easier for users to find specific animals.</p>
-      <td><img src="https://github.com/adamsissoko/CS340/blob/main/images/01.png" alt="[Main List]" style="width:600px;"></td>
+      <td><img src="https://github.com/adamsissoko/CS340/blob/main/images/01.png" alt="[Main List]" style="width:800px;"></td>
     </td>
   </tr>
   <tr>
     <td><h3>Interactive Histogram</h3>
       <p>The second image displays an interactive histogram that updates in real-time as the user interacts with the main list. The histogram serves as a graphical representation of the birth dates of the animals. It’s particularly useful for visualizing demographic distributions within specific categories or when the list is filtered.</p>
-      <td><img src="https://github.com/adamsissoko/CS340/blob/main/images/03.png" alt="[Interactive Histogram]" style="width:600px;"></td>
+      <td><img src="https://github.com/adamsissoko/CS340/blob/main/images/03.png" alt="[Interactive Histogram]" style="width:800px;"></td>
     </td>
   </tr>
   <tr>
     <td><h3>Interactive Map and Histogram</h3>
       <p>The third image showcases both an interactive histogram and a geographical map. The features are designed to sync in real-time, updating based on the filters applied in the main list. The map, which can be panned and zoomed, pinpoints the locations of animals, providing a geographical context that complements the histogram.</p>
-      <td><img src="https://github.com/adamsissoko/CS340/blob/main/images/02.png" alt="[Interactive Map and Histogram]" style="width:600px;"></td>
+      <td><img src="https://github.com/adamsissoko/CS340/blob/main/images/02.png" alt="[Interactive Map and Histogram]" style="width:800px;"></td>
     </td>
   </tr>
   <tr>
     <td><h3>Site Interactivity</h3>
       <p>The final animated image reveals the website’s seamless interactivity. Selecting a filter category like "Water Rescue" instantly refines the list, the histogram, and the map. This animation encapsulates the fluid user experience designed into the application, highlighting the real-time updates that occur across multiple components.</p>
-      <td><img src="https://github.com/adamsissoko/CS340/blob/main/images/aac-min.gif" alt="[Site Interactivity]" style="width:600px;"></td>
+      <td><img src="https://github.com/adamsissoko/CS340/blob/main/images/aac-min.gif" alt="[Site Interactivity]" style="width:800px;"></td>
     </td>
   </tr>
 </table>
