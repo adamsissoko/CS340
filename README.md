@@ -1,6 +1,5 @@
-
-<h1>Comprehensive Animal Shelter Management System/h1>
-<h2>Adam Sissoko<br>
+<h1 align = "center"> Comprehensive Animal Shelter Management System  </h1>
+<h2 align = "center"> Adam Sissoko </h2>
 <h2>Introduction</h2>
 
   
