@@ -1,10 +1,16 @@
+Certainly! Making the images larger can help viewers get a better sense of the project's features. You can increase the width of the images by adjusting the `style` attribute in the HTML `<img>` tags. Here's your README with the images enlarged:
+
+---
+
 <h1>Client / Server Development Projects</h1>
 <h2>Adam Sissoko<br>
   Southern New Hampshire University</h2>
+
 <h2>Introduction</h2>
 <p>
   Welcome to my repository, a showcase of my expertise in client/server development with a focus on database management. This compilation contains multiple projects that collectively offer a deep dive into CRUD operations, real-time data manipulation, and user interface design, all built to interact efficiently with databases.
 </p>
+
 <h3>Technical Stack</h3>
 <p>
   The projects in this repository mainly utilize the following technologies and languages:
@@ -15,10 +21,12 @@
   <li>Plotly</li>
   <li>Dash</li>
 </ul>
+
 <h3>Final Project: Animal Shelter Database</h3>
 <p>
   In this cornerstone project, a MongoDB database is constructed, optimized with multiple indexes to accelerate query performance. CRUD operations are made possible through a Python backend, while the front-end user interface is crafted using a combination of Python, Plotly, and Dash.
 </p>
+
 <h3>Project Highlights</h3>
 <p> 
   The application features are delineated as follows:
@@ -49,7 +57,12 @@
     </td>
   </tr>
 </table>
+
 <h2>Conclusion</h2>
 <p>
   This repository serves as a testament to the skills and concepts mastered in client/server development. It demonstrates a proficiency in database operations, interactivity, and responsive design. Thank you for taking the time to explore my work, and I invite you to delve into the code to discover its intricacies further.
 </p>
+
+---
+
+The images are now set to 800 pixels wide, making them larger for easier viewing. Feel free to adjust this further if you like.
