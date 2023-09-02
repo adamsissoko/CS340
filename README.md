@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  To see the culmination of my learning, check out the <a href="https://github.com/adamsissoko/CS340/blob/main/Python%20Mongo%20Tests/ModuleSixMilestone_AAC.py" target="_blank">Final Project file</a>. The README file will give you information about how to install and run the program (Python is required), and you'll need to set up a MongoDB server either locally or on Atlas.
+  To see the culmination of my learning, check out the <a href="https://github.com/adamsissoko/CS340/blob/main/machine%20learning%20projects/ModuleSixMilestone_AAC.py" target="_blank">Final Project file</a>. The README file will give you information about how to install and run the program (Python is required), and you'll need to set up a MongoDB server either locally or on Atlas.
 </p>
 
 <h3>Final Project: Animal Shelter Database</h3>
