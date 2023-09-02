@@ -31,32 +31,26 @@ Certainly! Making the images larger can help viewers get a better sense of the p
 <p> 
   The application features are delineated as follows:
 </p>
-<table>
-  <tr>
-    <td><h3>Main List</h3>
-      <p>The first image showcases the main list of animals from the shelter. The list is sortable by various parameters, such as name and type. Each entry is editable and deletable in real-time, providing dynamic interaction. Filters have been added to sort the list based on specialized categories, like Water Rescue, Mountain Rescue, and Disaster Rescue, making it easier for users to find specific animals.</p>
-      <td><img src="https://github.com/adamsissoko/CS340/blob/main/images/01.png" alt="[Main List]" style="width:800px;"></td>
-    </td>
-  </tr>
-  <tr>
-    <td><h3>Interactive Histogram</h3>
-      <p>The second image displays an interactive histogram that updates in real-time as the user interacts with the main list. The histogram serves as a graphical representation of the birth dates of the animals. It’s particularly useful for visualizing demographic distributions within specific categories or when the list is filtered.</p>
-      <td><img src="https://github.com/adamsissoko/CS340/blob/main/images/03.png" alt="[Interactive Histogram]" style="width:800px;"></td>
-    </td>
-  </tr>
-  <tr>
-    <td><h3>Interactive Map and Histogram</h3>
-      <p>The third image showcases both an interactive histogram and a geographical map. The features are designed to sync in real-time, updating based on the filters applied in the main list. The map, which can be panned and zoomed, pinpoints the locations of animals, providing a geographical context that complements the histogram.</p>
-      <td><img src="https://github.com/adamsissoko/CS340/blob/main/images/02.png" alt="[Interactive Map and Histogram]" style="width:800px;"></td>
-    </td>
-  </tr>
-  <tr>
-    <td><h3>Site Interactivity</h3>
-      <p>The final animated image reveals the website’s seamless interactivity. Selecting a filter category like "Water Rescue" instantly refines the list, the histogram, and the map. This animation encapsulates the fluid user experience designed into the application, highlighting the real-time updates that occur across multiple components.</p>
-      <td><img src="https://github.com/adamsissoko/CS340/blob/main/images/aac-min.gif" alt="[Site Interactivity]" style="width:800px;"></td>
-    </td>
-  </tr>
-</table>
+<h3>Main List</h3>
+<p>
+  The screenshot below provides a detailed view of the main list feature of the application. This main list showcases a comprehensive catalogue of animal entries stored in the shelter's database. The entries are fully sortable by various headings such as type, age, and breed, allowing users an unparalleled degree of flexibility. You can perform CRUD operations in real-time, meaning that the entries can be edited or deleted instantaneously. The feature also comes with a filter option for specific task-based queries like Water Rescue, Mountain Rescue, and Disaster Rescue.
+</p>
+<img src="https://github.com/adamsissoko/CS340/blob/main/images/01.png" alt="[Main List Interface]" style="width:600px;">
+<h3>Interactive Histogram</h3>
+<p>
+  The second image showcases the interactive histogram feature of the application. This histogram is designed to auto-update in real-time, reflecting any changes in the animal's birth dates stored in the database. The feature is particularly insightful when the list is filtered to show specific groups. It serves as an analytical tool for understanding the age distribution of the animals in the shelter, aiding in data-driven decision-making.
+</p>
+<img src="https://github.com/adamsissoko/CS340/blob/main/images/03.png" alt="[Interactive Histogram]" style="width:600px;">
+<h3>Interactive Map and Histogram</h3>
+<p>
+  This image demonstrates a complex feature combining both a map and a histogram. The feature is designed to update simultaneously based on the selected group filters, offering a cohesive experience. The map is highly interactive, supporting features like zooming and panning to offer geographical context about the locations of each of the animals listed in the database. Coupled with the histogram, this feature allows users to visualize both the spatial distribution and the demographic details of the animals.
+</p>
+<img src="https://github.com/adamsissoko/CS340/blob/main/images/02.png" alt="[Interactive Map and Histogram]" style="width:600px;">
+<h3>Site Interactivity</h3>
+<p>
+  The animated GIF below illustrates the high level of interactivity built into the site. In this animation, you can observe how selecting a specific category, such as "Water Rescue," triggers an immediate update across the entire list and all accompanying visual elements. This real-time responsiveness is one of the key attributes that make the application user-friendly, offering a seamless experience when navigating through various data visualizations and lists.
+</p>
+<img src="https://github.com/adamsissoko/CS340/blob/main/images/aac-min.gif" alt="[Site Interactivity]" style="width:600px;">Feel free to integrate these detailed image descriptions into your existing README.
 
 <h2>Conclusion</h2>
 <p>
