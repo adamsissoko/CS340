@@ -1,9 +1,11 @@
 
-<h1>Client / Server Development Projects</h1>
+<h1>Comprehensive Animal Shelter Management System/h1>
 <h2>Adam Sissoko<br>
 <h2>Introduction</h2>
+
+  
 <p>  
-Welcome to this repository, a comprehensive platform that showcases my mastery in mobile architecture and programming. Here you'll find a remarkable Android application focused on event tracking. This app is a testament to what is achievable with a comprehensive understanding of Android's diverse frameworks, APIs, and subsystems. It brings together a robust backend with an intuitive user interface to offer a seamless experience to the end-user.
+Welcome to this repository, where you'll find an all-inclusive Animal Shelter Management System designed to modernize and streamline the operations of animal shelters. This project aims to simplify tasks ranging from storing animal records to analyzing demographic data and visualizing shelter statistics. Built with performance, usability, and aesthetic appeal in mind, the application addresses the myriad challenges faced by animal shelters in managing their data and making informed decisions.
 </p>
 
 <h3>Technical Stack</h3>
