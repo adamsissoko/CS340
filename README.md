@@ -1,8 +1,6 @@
 
 <h1>Client / Server Development Projects</h1>
 <h2>Adam Sissoko<br>
-  Southern New Hampshire University</h2>
-
 <h2>Introduction</h2>
 <p>
   Welcome to my repository, a showcase of my expertise in client/server development with a focus on database management. This compilation contains multiple projects that collectively offer a deep dive into CRUD operations, real-time data manipulation, and user interface design, all built to interact efficiently with databases.
