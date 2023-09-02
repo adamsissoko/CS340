@@ -1,6 +1,3 @@
-Certainly! Making the images larger can help viewers get a better sense of the project's features. You can increase the width of the images by adjusting the `style` attribute in the HTML `<img>` tags. Here's your README with the images enlarged:
-
----
 
 <h1>Client / Server Development Projects</h1>
 <h2>Adam Sissoko<br>
