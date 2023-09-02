@@ -50,13 +50,10 @@ Certainly! Making the images larger can help viewers get a better sense of the p
 <p>
   The animated GIF below illustrates the high level of interactivity built into the site. In this animation, you can observe how selecting a specific category, such as "Water Rescue," triggers an immediate update across the entire list and all accompanying visual elements. This real-time responsiveness is one of the key attributes that make the application user-friendly, offering a seamless experience when navigating through various data visualizations and lists.
 </p>
-<img src="https://github.com/adamsissoko/CS340/blob/main/images/aac-min.gif" alt="[Site Interactivity]" style="width:600px;">Feel free to integrate these detailed image descriptions into your existing README.
+<img src="https://github.com/adamsissoko/CS340/blob/main/images/aac-min.gif" alt="[Site Interactivity]" style="width:600px;">
 
 <h2>Conclusion</h2>
 <p>
   This repository serves as a testament to the skills and concepts mastered in client/server development. It demonstrates a proficiency in database operations, interactivity, and responsive design. Thank you for taking the time to explore my work, and I invite you to delve into the code to discover its intricacies further.
 </p>
 
----
-
-The images are now set to 800 pixels wide, making them larger for easier viewing. Feel free to adjust this further if you like.
